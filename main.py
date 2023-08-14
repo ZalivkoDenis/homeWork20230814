@@ -60,7 +60,7 @@ print(project)
 # id=0
 # Project name:	step-00
 # Start project:	2023-05-04
-# End project:	2024-06-01
+# End project:	    2024-06-01
 # ---------------- Users -----------------
 # 	id=1: Zalivko Maria:
 # 		login:		zalivkomaria
@@ -77,7 +77,7 @@ print(project)
 # id=1
 # Project name:	step
 # Start project:	2023-05-04
-# End project:	2024-06-01
+# End project:	    2024-06-01
 # ---------------- Users -----------------
 # 	id=2: Situn Aleksandr:
 # 		login:		situnaleksandr
