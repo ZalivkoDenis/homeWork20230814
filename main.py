@@ -70,9 +70,9 @@ print(project)
 # 		password:	111
 
 
-project1 = load_project('.\\project-step.pickle')
+project = load_project('.\\project-step.pickle')
 
-print(project1)
+print(project)
 # ****************************************
 # id=1
 # Project name:	step
